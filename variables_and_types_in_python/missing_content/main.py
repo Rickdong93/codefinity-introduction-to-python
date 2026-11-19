@@ -3,10 +3,10 @@ classes = 6
 students = 45
 
 # Calculate total number of students
-___ = ___
+total_students = 6 * 45
 
 # Calculate total number of classes
-___ = ___
+total_classes = total_students / 27
 
 # Testing
 print("Number of students:", total_students)
